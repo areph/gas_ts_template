@@ -1,0 +1,2 @@
+# gas_ts_template
+GASをTypeScriptで記述するためのテンプレートリポジトリ
