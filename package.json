@@ -1,0 +1,8 @@
+{
+  "name": "gas_ts_template",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "ssh://git@github.com/areph/gas_ts_template.git",
+  "author": "areph <40balmung@gmail.com>",
+  "license": "MIT"
+}
